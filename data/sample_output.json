@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Soccer Ball",
+        "description": "Durable soccer ball for all ages.",
+        "price": "$29.99",
+        "availability": "In Stock",
+        "rating": "4.5",
+        "image_urls": ["https://example.com/image1.jpg", "https://example.com/image2.jpg"]
+    },
+    {
+        "title": "Shirt",
+        "description": "Comfortable cotton shirt for everyday wear.",
+        "price": "$19.99",
+        "availability": "Out of Stock",
+        "rating": "4.0",
+        "image_urls": ["https://example.com/image1.jpg"]
+    }
+]
