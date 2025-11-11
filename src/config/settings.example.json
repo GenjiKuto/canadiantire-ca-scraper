@@ -1,0 +1,5 @@
+{
+    "base_url": "https://www.canadiantire.ca/en.html",
+    "category_url": "https://www.canadiantire.ca/en/category/sports-outdoor.html",
+    "output_file": "data/sample_output.json"
+}
