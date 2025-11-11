@@ -1,0 +1,2 @@
+This file contains sample input URLs for the scraper to process.
+Example:
